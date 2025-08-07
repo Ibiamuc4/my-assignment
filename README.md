@@ -1,2 +1,4 @@
-# my-assignment
-assignment from ncaair python advanced
+## Contributors secction
+
+my name
+facilitarors name
